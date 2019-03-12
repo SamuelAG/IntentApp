@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="web_page">Web Page</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="open_map">Open Map</string>
+    <string name="make_a_call">Make a Call</string>
+</resources>
